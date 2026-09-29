@@ -1,6 +1,6 @@
 export COMMON_DRIVERS_DIR=common_drivers
 
-# Mali Bifrost GPU driver version (ohm = dvalin/G52). Override Makefile default r25p0.
+# Mali Bifrost GPU driver version (x4 = dvalin/G52). Override Makefile default r25p0.
 export GPU_DRV_VERSION=r47p0
 export GPU_TYPE=dvalin
 export GPU_ARCH=bifrost
